@@ -13,6 +13,7 @@ LINK FIQMA : https://www.figma.com/design/QG2bpiumC46Ecai6MMK0dG/UTS-BACKEND?nod
 lebih lengkapnya ada di file : https://github.com/azizahika/UNAIRSATUDATA-ProjectBackend/blob/main/434221045_AzizahIka_UASBackend/434221045_AzizahIkaWulandari_UTSBackend.pdf 
 
 UAS 
+
 ![image](https://github.com/user-attachments/assets/abf3614d-5917-4313-ae6c-b4001efaa7cb)
 ![image](https://github.com/user-attachments/assets/c42a273c-81c0-45ba-80b5-739984ac982e)
 
